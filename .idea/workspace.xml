@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7119005-0080-4bfd-bcda-138ac0fea98e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/QcmzController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/dao/mapper1/QcmzDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/entity/Qcmz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/Qcmzservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/Qcmzserviceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/mysql/Qcmzservicemapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/entity/TestTimeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/entity/TestTimeEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/TestServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/mysql/TestDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/mysql/TestDaoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/QcmzController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/QcmzController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596865276365</updated>
-      <workItem from="1596865280564" duration="12585000" />
+      <workItem from="1596865280564" duration="13537000" />
     </task>
     <servers />
   </component>
@@ -114,10 +103,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state width="382" height="466" key="DebuggerActiveHint/0.0.1549.831@0.0.1549.831" timestamp="1596871921431" />
-    <state x="152" y="77" width="1239" height="692" key="DiffContextDialog" timestamp="1596867608161">
+    <state x="152" y="77" width="1239" height="692" key="DiffContextDialog" timestamp="1596880136593">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="152" y="77" width="1239" height="692" key="DiffContextDialog/0.0.1549.831@0.0.1549.831" timestamp="1596867608161" />
+    <state x="152" y="77" width="1239" height="692" key="DiffContextDialog/0.0.1549.831@0.0.1549.831" timestamp="1596880136593" />
     <state x="559" y="182" key="FileChooserDialogImpl" timestamp="1596865753187">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -178,10 +167,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="467" y="25" width="623" height="801" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1596867950661" />
-    <state x="492" y="217" key="git4idea.merge.GitPullDialog" timestamp="1596879072694">
+    <state x="492" y="217" key="git4idea.merge.GitPullDialog" timestamp="1596880151474">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="492" y="217" key="git4idea.merge.GitPullDialog/0.0.1549.831@0.0.1549.831" timestamp="1596879072694" />
+    <state x="492" y="217" key="git4idea.merge.GitPullDialog/0.0.1549.831@0.0.1549.831" timestamp="1596880151474" />
     <state x="441" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1596870747892">
       <screen x="0" y="0" width="1549" height="831" />
     </state>

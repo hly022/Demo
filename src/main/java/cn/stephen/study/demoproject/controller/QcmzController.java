@@ -59,7 +59,10 @@ public class QcmzController {
     @RequestMapping("/queryQcmzInfosById")
     public List<Qcmz> queryQcmzInfosById (String name) {
 
-      List<Qcmz> infolist = qcmzservice.queryQcmzInfosById(name);
+
+
+
+      List<Qcmz> infolist =       qcmzservice.queryQcmzInfosById(name);
 
         return infolist;
     }
