@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7119005-0080-4bfd-bcda-138ac0fea98e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/QcmzController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/dao/mapper1/QcmzDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/entity/Qcmz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/Qcmzservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/Qcmzserviceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/mysql/Qcmzservicemapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/entity/TestTimeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/entity/TestTimeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/service/TestServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/mysql/TestDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/mysql/TestDaoMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\mvn_repo" />
+        <option name="mavenHome" value="D:/software/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fnsdLKxqRuZTahl9DTSTnQwNil" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeSpace\ideaCode\project_demo\src\main\resources\mapper\mysql" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoprojectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoproject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.stephen.study.demoproject.DemoprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7119005-0080-4bfd-bcda-138ac0fea98e" name="Default Changelist" comment="" />
+      <created>1596865276365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596865276365</updated>
+      <workItem from="1596865280564" duration="12585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596866397133">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="547" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831@0.0.1549.831" timestamp="1596866397133" />
+    <state x="803" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1596875702701">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="803" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1596875702701" />
+    <state width="382" height="466" key="DebuggerActiveHint" timestamp="1596871921431">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="382" height="466" key="DebuggerActiveHint/0.0.1549.831@0.0.1549.831" timestamp="1596871921431" />
+    <state x="152" y="77" width="1239" height="692" key="DiffContextDialog" timestamp="1596867608161">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="152" y="77" width="1239" height="692" key="DiffContextDialog/0.0.1549.831@0.0.1549.831" timestamp="1596867608161" />
+    <state x="559" y="182" key="FileChooserDialogImpl" timestamp="1596865753187">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="559" y="182" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1596865753187" />
+    <state width="1506" height="359" key="GridCell.Tab.0.bottom" timestamp="1596876497940">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1596876497940" />
+    <state width="1506" height="359" key="GridCell.Tab.0.center" timestamp="1596876497940">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1596876497940" />
+    <state width="1506" height="359" key="GridCell.Tab.0.left" timestamp="1596876497940">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1596876497940" />
+    <state width="1506" height="359" key="GridCell.Tab.0.right" timestamp="1596876497940">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1596876497940" />
+    <state width="1506" height="359" key="GridCell.Tab.1.bottom" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state width="1506" height="359" key="GridCell.Tab.1.center" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state width="1506" height="359" key="GridCell.Tab.1.left" timestamp="1596876497940">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1596876497940" />
+    <state width="1506" height="359" key="GridCell.Tab.1.right" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state width="1506" height="359" key="GridCell.Tab.2.bottom" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.2.bottom/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state width="1506" height="359" key="GridCell.Tab.2.center" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.2.center/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state width="1506" height="359" key="GridCell.Tab.2.left" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.2.left/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state width="1506" height="359" key="GridCell.Tab.2.right" timestamp="1596876497941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="359" key="GridCell.Tab.2.right/0.0.1549.831@0.0.1549.831" timestamp="1596876497941" />
+    <state x="288" y="68" key="SettingsEditor" timestamp="1596870621116">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="288" y="68" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1596870621116" />
+    <state x="467" y="25" width="623" height="801" key="find.popup" timestamp="1596867950661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="467" y="25" width="623" height="801" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1596867950661" />
+    <state x="492" y="217" key="git4idea.merge.GitPullDialog" timestamp="1596879072694">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="492" y="217" key="git4idea.merge.GitPullDialog/0.0.1549.831@0.0.1549.831" timestamp="1596879072694" />
+    <state x="441" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1596870747892">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="441" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1596870747892" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/stephen/study/demoproject/controller/TestController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
